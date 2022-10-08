@@ -16,6 +16,9 @@ function App() {
         { path: '/friends', element: <Friends></Friends> }
       ]
     },
+    {
+      path: '*', element: <div>This route not found</div>
+    }
 
     
 
