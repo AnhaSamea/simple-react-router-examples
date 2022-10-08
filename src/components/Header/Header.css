@@ -5,6 +5,9 @@
     padding: 2px 5px;
 }
 .header a:hover{
-    background-color: aquamarine;
+    background-color: rgb(161, 127, 255);
     border-radius: 10px;
+}
+.active{
+    background-color: burlywood;
 }
